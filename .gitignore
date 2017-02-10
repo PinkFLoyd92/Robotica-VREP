@@ -7,4 +7,5 @@ complexCommandTest.py
 simpleSynchronousTest.py
 __pycache__/
 remoteApi.*
+*.pyc
 ColoresExample/
